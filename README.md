@@ -1,23 +1,76 @@
-<h1 align="center">Hi 👋, I'm Nyamdorj Khurtsetseg</h1>
-<h3 align="center">A passionate backend developer from Mongolia</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10&pause=10&color=13F76E&center=true&vCenter=true&repeat=false&width=435&lines=Nyamdorj.Kh" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nymdorj&label=Profile%20views&color=0e75b6&style=flat" alt="nymdorj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nymdorj" alt="nymdorj" /></a> </p>
-
-- 🌱 I’m currently learning **svelte and nestjs**
-
-- 💬 Ask me about **php, symfony, express and dart**
-
-- 📫 How to reach me **nyamdorj.kh@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/nyamdorj_kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nyamdorj_kh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nyamdorj-khurtsetseg-5a78a0157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nyamdorj-khurtsetseg-5a78a0157/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nyamdorj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nyamdorj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user0250m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user0250m" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F76E&background=FFFFFF00&center=true&vCenter=true&width=635&lines=A+passionate+full-stack+developer;5%2B+years+of+coding+experience" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+<p align="center">
+  
+  <a href="https://github.com/Nymdorj?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nymdorj?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Nymdorj?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nymdorj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://hits.sh/github.com/nymdorj">
+    <img alt="views" title="GitHub profile views" src="https://hits.sh/github.com/nymdorj.svg?style=for-the-badge&label=Views&extraCount=75&color=141617"/></a>
+</p>
+
+
+
+```php
+me                        ┌────────────┐               
+ ├─working-on             |   Human    |                                       ,----------------,              ,---------,
+ │  ├─Payon               └────────────┘                                   ,----------------------,          ,"        ,"|
+ │  └─Portfolio                 ↑                                        ,"                     ,"|        ,"        ,"  |         
+ ├─interested-in                |                                       +----------------------+  |      ,"        ,"    |
+ │  └─tech                      |                                       |  .----------------.  |  |     +---------+      |
+ │     └─Blockchain             |                                       |  |                |  |  |     | -==----'|      |
+ ├─lives-in                     |                                       |  | I LOVE DOS!    |  |  |     |         |      |
+ |  └─Mongolia                is-a                                      |  | Bad command or |  |  |/----|`---=    |      |
+ └─learning                     |                                       |  | C:\>_          |  |  |   ,/|==== ooo |      ;
+    ├─Svelte                    |                                       |  |                |  |  |  // |(((( [33]|    ,"
+    ├─Clean-Architecture        |                                       |  `----------------'  |," .;'| |((((     |  ,"
+    |  └─Design-Patterns  ┌─────┴──────┐            ┌──────────────┐    +----------------------+  ;;  | |         |," 
+    └─Algorithms          │  Nyamdorj  ├──loves-a──→│   Computer   │      /_)______________(_/  //'   | +---------+ 
+                          └────────────┘            └──────────────┘  __________________________/___  `,
+                                                                     / oooooooooooooooo  .o.  oooo /,   \,"---------
+                                                                    / =ooooooooooooooo==.o.  ooo= //   ,`\--{)B   ,"
+                                                                   /_==__==========__==_oo__ooo=_/'   /_________,"
+                                                                   `----------------------------'
+```
+
+<table>
+<tr>
+<td valign="top" align="center" width="50%">
+### Github Stats
+  
+[![Github Stats of Nymdorj](https://github-readme-stats.vercel.app/api?username=Nymdorj&show_icons=true&title_color=13F76E&icon_color=13F76E&text_color=9f9f9f&bg_color=141617&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github-readme-stats.vercel.app/api?username=Nymdorj&show_icons=true&title_color=13F76E&icon_color=13F76E&text_color=9f9f9f&bg_color=141617&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)
+</td>
+<td valign="top" align="center" width="50%">
+### Language Stats
+
+[![Profile Stats of Nymdorj](https://github-readme-stats.vercel.app/api/top-langs/?username=Nymdorj&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&card_width=480&text_bold=true&langs_count=10&hide_border=true&hide_title=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=Nymdorj&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&card_width=480&text_bold=true&langs_count=10&hide_border=true&hide_title=true)
+</td>
+</tr>
+<tr>
+<td valign="top" align="center" width="100%" colspan=2>
+### Connect with me
+
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&style=for-the-badge&logoColor=white&color=141617)](https://reddit.com/user/Kh_Nyamdorj) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&style=for-the-badge&logoColor=white&color=141617)](https://stackoverflow.com/users/10527863/nyamdorj-khurtsetseg)
+[![Dev.to](https://img.shields.io/badge/Dev.to-%0A0A0A.svg?logo=devdotto&style=for-the-badge&logoColor=white&color=141617)](https://dev.to/nyamdorj_kh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%0A66C2.svg?logo=linkedin&style=for-the-badge&logoColor=white&color=141617)](https://linkedin.com/in/nyamdorj-khurtsetseg-5a78a0157)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%FFA116.svg?logo=leetcode&style=for-the-badge&logoColor=white&color=141617)](https://www.leetcode.com/user0250m)
+</td>
+</tr>
+</table>
+
+```javascript
+const skills = {
+    code: ["Javascript", "Typescript", "HTML", "CSS", "PHP"],
+    tools: ["NodeJs", "Symfony", "Jest", "Docker", "Git", "Firebase"],
+    architecture: ["microservices"],
+    databases: ["postgresql", "mysql"]
+}
+```
